@@ -46,7 +46,7 @@ body {
     text-decoration: none;
 }
 .menu_list {
-    max-width: 485px;
+    max-width: 111px;
     width: 100%;
 }
 .button {
@@ -130,122 +130,8 @@ color:#CF5510;
     font-size: 20px;
     line-height: 23px;
     color: rgba(255, 255, 255, 0.5);
-    margin-top: 190px;
+    margin-top: 187px;
 }
 .footer_text {
     color: rgba(255, 255, 255, 0.5);
 }
-
-/* Students*/
-
-.content_students {
-    max-width: 1202px;
-    width: 100%;
-    margin: 0px auto;
-}
-.heading {
-    font-style: normal;
-    font-weight: 700;
-    font-size: 30px;
-    line-height: 35px;
-    color: #000000;
-    margin-top: 37px;
-}
-.students {
-    margin-top: 24px;
-    display: flex;
-    gap: 50px;
-    flex-wrap: wrap;
-}
-.student {
-    width: 200px;
-    position: relative;
-}
-.student_new {
-    position: absolute;
-    top: -12px;
-    right: -13px;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 15px;
-    line-height: 21px;
-    color: #FFFFFF;
-    background:#3AA828;
-    border-radius: 20px;
-    padding: 3px 2px 4px 6px;  /*Указанные параменты не соответствуют указанным в фигме, однако выглядят на странице контент "Новичок" намного лучше */
-    text-transform: uppercase;
-}
-.student_name {
-    font-style: normal;
-    font-weight: 400;
-    font-size: 20px;
-    line-height: 23px;
-    color: #000000; 
-    text-align: center;
-    margin-top: 8px;
-}
-/*Courses */
-.content__info {
-    max-width: 820px;
-    width: 100%;
-    margin-left: 286px;
-    margin-right: 217px;
-}
-.text_2 {
-    font-style: normal;
-    font-weight: 400;
-    font-size: 25px;
-    line-height: 29px;
-    display: flex;
-    align-items: center;
-    color: #000000;
-    padding-bottom: 15px;
-    padding-top: 25px;
-}
-/* Contacts */
-.address_info {
-    max-width: 1268px;
-    width: 100%;
-    margin: 0px auto;
-}
-.subtitle {
-    font-style: normal;
-    font-weight: 700;
-    font-size: 30px;
-    line-height: 35px;
-    color: #000000;
-    margin-top: 33px;
-    margin-bottom: 25px;
-    margin-left: 200px;
-}
-.contact {
-    font-style: normal;
-    font-weight: 400;
-    font-size: 25px;
-    line-height: 29px;
-    display: flex;
-    align-items: center;
-    color: #000000;
-    margin-top: 15px;
-    margin-left: 200px;
-}
-.Contact_information {
-    font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 21px;
-    color: #000000;
-    margin-top: 10px;
-    margin-bottom: 25px;
-    margin-left: 200px;
-}
-.Contact_information_2 {
-    font-style: normal;
-    font-weight: 400;
-    font-size: 18px;
-    line-height: 21px;
-    color: #000000;
-    text-decoration: underline;
-    margin-bottom: 25px;
-    margin-left: 200px;
-    }
